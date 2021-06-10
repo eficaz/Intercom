@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Intercomapp.Views.AboutPage"
-             xmlns:vm="clr-namespace:Intercomapp.ViewModels"
+             xmlns:vm="clr-namespace:Intercomapp.ViewModels"             
              Title="{Binding Title}">
     
     <ContentPage.BindingContext>
@@ -28,19 +28,18 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <Entry x:Name="entryURL" IsVisible="false" HorizontalOptions="FillAndExpand" VerticalOptions="Start"
-Text="https://camppro.eficaztechsol.com/"
-HeightRequest="45" Grid.Row="0" Grid.Column="1" Completed="EntryURL_Completed"/>
+                    <Entry x:Name="entryURL" IsVisible="false" HorizontalOptions="FillAndExpand" VerticalOptions="Start"
+        Text="https://camppro.eficaztechsol.com/home/index"
+        HeightRequest="45" Grid.Row="0" Grid.Column="1" Completed="EntryURL_Completed"/>
 
 
-            <ActivityIndicator x:Name="activityIndicator" Grid.Row="0" Color="#1e3799"
-HorizontalOptions="Center" VerticalOptions="Center"
-Grid.Column="2" IsVisible="False" HeightRequest="35" WidthRequest="35"/>
-        </Grid>
+                    <ActivityIndicator x:Name="activityIndicator" Grid.Row="0" Color="#1e3799"
+        HorizontalOptions="Center" VerticalOptions="Center"
+        Grid.Column="2" IsVisible="False" HeightRequest="35" WidthRequest="35"/>
+                </Grid>
 
-        <WebView Grid.Row="1" Grid.Column="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
+                <WebView Grid.Row="1" Grid.Column="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
 
-Navigating="MyWebView_Navigating" x:Name="myWebView" Navigated="MyWebView_Navigated"/>
+        Navigating="MyWebView_Navigating" x:Name="myWebView" Navigated="MyWebView_Navigated"/>
     </Grid>
-
 </ContentPage>

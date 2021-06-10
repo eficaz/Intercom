@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JKTx6wmg6wQzEEuRttpHbgzZsPGpKstgJ0CTuVjSlOZFg7PJWocRDM3kiddGCPHRvzXleRQ3QxYjIbwg+jiZ1w==",
+  "dgSpecHash": "oBdMbPAJVv1zo3nEJviJF5cWiB5aMGEJGIrEgZuMCL5jaXLvklIWgiJyqwchHFQbO2YuIGVLf7qPWIiNB9XGpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Eficaz\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\Divya\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Divya\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

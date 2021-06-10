@@ -25,7 +25,8 @@ namespace Intercomapp.Views
                 myWebView.GoBack();
             else
             {
-                entryURL.Text = "https://camppro.eficaztechsol.com/home/requestinfo";
+                entryURL.Text = "https://camppro.eficaztechsol.com/home/index/Rohith/7890";
+           
                 LoadWebPage();
 
             }

@@ -978,24 +978,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eficaz\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Divya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
       "projectName": "Intercomapp.iOS",
-      "projectPath": "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Eficaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Eficaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Divya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1004,14 +1007,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://aka.ms/xf-ci/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
-              "projectPath": "C:\\Users\\Eficaz\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
+            "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
+              "projectPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
             }
           }
         }
