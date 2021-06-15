@@ -1,0 +1,16 @@
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\bin\Debug\netstandard2.0\Intercomapp.deps.json
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\bin\Debug\netstandard2.0\Intercomapp.dll
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\bin\Debug\netstandard2.0\ref\Intercomapp.dll
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\bin\Debug\netstandard2.0\Intercomapp.pdb
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.csproj.AssemblyReference.cache
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\HelpPage.xaml.g.cs
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\LandingPage.xaml.g.cs
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.AssemblyInfoInputs.cache
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.AssemblyInfo.cs
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.dll
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\ref\Intercomapp.dll
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\Intercomapp.pdb
+C:\Users\Divya\source\repos\peter\Intercomapp\Intercomapp\Intercomapp\obj\Debug\netstandard2.0\NewbotPage.xaml.g.cs

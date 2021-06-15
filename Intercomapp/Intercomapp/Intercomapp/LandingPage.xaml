@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Intercomapp.LandingPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="30">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="User1" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Name:"  Grid.Row="1" Grid.Column="0"/>
+                <Entry x:Name="Name1"  Text="Name1" Grid.Row="1" Grid.Column="1"/>
+                <Label Text="Email:"  Grid.Row="2" Grid.Column="0"/>
+                <Entry x:Name="Email1"  Text="user1@email.com" Grid.Row="2" Grid.Column="1"/>
+                <Button x:Name="Help1" Text="Help" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Clicked="Help1_Clicked" HorizontalOptions="Center"/>
+                <Button x:Name="btncustombot" Text="New Bot" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Clicked="Newbot_Clicked" HorizontalOptions="Center"/>
+            </Grid>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="User2" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Name:"  Grid.Row="1" Grid.Column="0"/>
+                <Entry x:Name="Name2"  Text="Name2" Grid.Row="1" Grid.Column="1"/>
+                <Label Text="Email:"  Grid.Row="2" Grid.Column="0"/>
+                <Entry x:Name="Email2"  Text="user2@email.com" Grid.Row="2" Grid.Column="1"/>
+                <Button x:Name="Help2" Text="Help" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Clicked="Help2_Clicked" HorizontalOptions="Center"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
