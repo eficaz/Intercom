@@ -1937,11 +1937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
       "projectName": "Intercomapp.Android",
-      "projectPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
+      "projectPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
-              "projectPath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
+            "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
+              "projectPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
             }
           }
         }

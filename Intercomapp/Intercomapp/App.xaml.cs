@@ -1,8 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Intercomapp.Services;
-using Intercomapp.Views;
 
 namespace Intercomapp
 {
@@ -13,8 +11,7 @@ namespace Intercomapp
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new NavigationPage(new LandingPage());
         }
 
         protected override void OnStart()

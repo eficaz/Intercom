@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1l9iu8+TsiOcuuubFos4OjXOUhc429k1zECIi2YsaVDvK3t7BiOfhOtwapGTg105hks6hY79Y7GNrgj4Mnj/Tg==",
+  "dgSpecHash": "rKU0ueTaL0rKlXNCKGjzMdVaJVNdNnP7kxnFv1ePBjYTHiZVsZhhgF3ulvwOvObGZ5aj3l/Z0p419jWY7s5bhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Divya\\source\\repos\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.Android\\Intercomapp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Divya\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Users\\Divya\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
