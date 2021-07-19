@@ -37,6 +37,7 @@ namespace Intercomapp
             sb.AppendLine($"    hide_default_launcher: true,");
             sb.AppendLine($"    name: '{UserName}',");
             sb.AppendLine($"    user_id: '{UserEmail}',");
+            sb.AppendLine($"    custom_launcher_selector: '#btn_custombot2',");
             sb.AppendLine($"    email: '{UserEmail}',");sb.AppendLine($"    apples: '1',");
             sb.AppendLine($"}};");
             sb.AppendLine($"</script>");

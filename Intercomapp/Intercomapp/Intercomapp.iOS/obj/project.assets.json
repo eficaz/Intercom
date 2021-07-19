@@ -985,11 +985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Divya\\Documents\\GitHub\\Intercom\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
       "projectName": "Intercomapp.iOS",
-      "projectPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
+      "projectPath": "C:\\Users\\Divya\\Documents\\GitHub\\Intercom\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\Intercomapp.iOS.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Divya\\Documents\\GitHub\\Intercom\\Intercomapp\\Intercomapp\\Intercomapp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
-              "projectPath": "C:\\Users\\Divya\\source\\repos\\peter\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
+            "C:\\Users\\Divya\\Documents\\GitHub\\Intercom\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj": {
+              "projectPath": "C:\\Users\\Divya\\Documents\\GitHub\\Intercom\\Intercomapp\\Intercomapp\\Intercomapp\\Intercomapp.csproj"
             }
           }
         }

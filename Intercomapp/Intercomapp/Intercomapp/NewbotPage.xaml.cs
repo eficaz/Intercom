@@ -21,8 +21,7 @@ namespace Intercomapp
         public void LoadWebPage()
         {
             
-            var browser = new WebView();
-          
+            var browser = new WebView();          
             browser.Source = "https://camppro.eficaztechsol.com/home/test";
             Content = browser;
 
