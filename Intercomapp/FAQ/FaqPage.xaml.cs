@@ -13,7 +13,8 @@ namespace Intercomapp.Views
         public FaqPage()
         {
             InitializeComponent();
-            Webview.Source = "https://intercom.help/yondr-money/en";
+            Webview.Source = "https://intercom.help/yondr-money/en/collections/3020013-yondr-money-faq";
+          
         }
 
         protected async override void OnAppearing()
